@@ -1,7 +1,10 @@
 
-body{font-family:Arial,sans-serif;margin:0;background:#f5f5f5}
-header{background:#f57c00;color:#fff;text-align:center;padding:15px}
-nav{display:flex;gap:8px;overflow:auto;padding:10px;background:#fff;position:sticky;top:0}
-nav a{text-decoration:none;padding:8px 12px;background:#0d47a1;color:#fff;border-radius:6px;white-space:nowrap}
-.gallery{max-width:1000px;margin:auto}
-.gallery img{width:100%;margin:10px 0;border-radius:10px}
+body{font-family:Arial;margin:0;background:#f4f4f4}
+.header{background:#f57c00;color:#fff;text-align:center;padding:15px}
+.menu{display:flex;gap:10px;padding:10px;justify-content:center;flex-wrap:wrap}
+button{padding:10px;border:none;border-radius:8px;background:#0d47a1;color:#fff}
+.page{display:none;padding:15px}
+.active{display:block}
+#poster{width:100%;max-width:900px;display:block;margin:auto;border-radius:10px}
+.nav{text-align:center;margin-top:15px}
+li{cursor:pointer;margin:8px 0}
