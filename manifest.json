@@ -1,0 +1,8 @@
+{
+  "name": "Panduan SE2026 Pinrang",
+  "short_name": "SE2026",
+  "display": "standalone",
+  "start_url": "./",
+  "background_color": "#ffffff",
+  "theme_color": "#f57c00"
+}
